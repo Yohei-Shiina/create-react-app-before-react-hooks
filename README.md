@@ -1,11 +1,14 @@
 # udemy-react-redux-crud-application
 
- まずはクローン
+まずはクローン
  
 `git clone https://github.com/Yohei-Shiina/create-react-app-before-react-hooks.git `
 
-githubでリポジトリを新規作成
+登録されているremoteのリポジトリをremove
 
+`git remote rm origin`
+
+githubでリポジトリを新規作成
 
 新規作成したリポジトリのURLを取得してそのURLをリモート先として登録
 

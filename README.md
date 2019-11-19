@@ -1,4 +1,4 @@
-# create-react-app-before-react-hooks
+# create-react-app-output-before-react-hooks
 ## 学習用の古いバージョンのReact
 
 udemyやその他動画等でreactの学習をローカル環境で始めるため、
